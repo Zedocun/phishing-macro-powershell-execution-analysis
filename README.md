@@ -56,7 +56,7 @@ A DNS query and HTTP request to `www.greyhathacker.net` were observed. The paylo
 
 ![DNS Query](screenshots/dns_query_greyhathacker.png)
 
-![HTTP GET 404](screenshots/http_get_messbox_404.png)
+![HTTP GET 404](screenshots/http_request_payload_attempt.png)
 
 ## Findings
 
