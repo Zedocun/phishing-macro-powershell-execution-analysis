@@ -1,3 +1,5 @@
+[![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-00ab6c?logo=medium&logoColor=white)](https://medium.com/@Zedocun/from-invoice-to-infection-investigating-a-malicious-docm-phishing-attempt-c9d07083d103?postPublishedType=initial)
+
 # Phishing Macro → PowerShell Investigation
 
 ## Overview
