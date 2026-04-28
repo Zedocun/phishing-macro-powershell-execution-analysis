@@ -82,7 +82,3 @@ This distinction is important: malicious execution of the document and PowerShel
 - Evidence-based scoping
 - MITRE ATT&CK mapping
 - Timeline construction
-
-## Tags
-
-`phishing` `macro` `powershell` `incident-response` `threat-detection` `soc-analysis` `mitre-attack` `malware-investigation`
