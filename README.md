@@ -41,7 +41,7 @@ The investigation began with an alert indicating that a malicious macro-enabled 
 ### 2. WINWORD Execution
 A process creation event shows `WINWORD.EXE` opening the malicious document.
 
-![WINWORD Execution](screenshots/winword_execution.png)
+![WINWORD Execution](screenshots/winword_process_execution.png)
 
 ### 3. PowerShell Launch
 A process creation event shows `powershell.exe` executing a command to download `messbox.exe` and start `mess.exe`.
